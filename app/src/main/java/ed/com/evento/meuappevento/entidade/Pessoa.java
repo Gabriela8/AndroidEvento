@@ -1,6 +1,6 @@
 package ed.com.evento.meuappevento.entidade;
 
-
+import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
 
